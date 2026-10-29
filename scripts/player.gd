@@ -1,7 +1,7 @@
 class_name Player extends CharacterBody2D
 
 const SPEED:int = 100
-const JUMP_VELOCITY:float = -260.0
+const JUMP_VELOCITY:float = -300.0
 const ANIMATION_IDLE:String = "idle"
 const ANIMATION_WALK:String = "walk"
 const ANIMATION_JUMP:String = "jump"
